@@ -2,24 +2,25 @@
 Build a Mini ETL Pipeline while practicing the complete Git workflow.
 ________________________________________
 📁 Final Project Structure
-        mini-etl-git-project/
-        │
-        ├── data/
-        │   └── customers.csv
-        │
-        ├── src/
-        │   ├── extract.py
-        │   ├── transform.py
-        │   ├── load.py
-        │   └── main.py
-        │
-        ├── output/
-        │   └── cleaned_customers.csv
-        │
-        ├── .gitignore
-        ├── README.md
-        ├── requirements.txt
-        └── LICENSE
+
+                        mini-etl-git-project/
+                        │
+                        ├── data/
+                        │   └── customers.csv
+                        │
+                        ├── src/
+                        │   ├── extract.py
+                        │   ├── transform.py
+                        │   ├── load.py
+                        │   └── main.py
+                        │
+                        ├── output/
+                        │   └── cleaned_customers.csv
+                        │
+                        ├── .gitignore
+                        ├── README.md
+                        ├── requirements.txt
+                        └── LICENSE
 ________________________________________
 📌 What each file does
 data/
