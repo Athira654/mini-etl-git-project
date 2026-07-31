@@ -170,3 +170,4 @@ During this project you'll naturally practice
 ✅ git push
 ________________________________________
 
+GitHub Actions test
